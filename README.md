@@ -1,5 +1,5 @@
 # Android-Testing 
 
-UnitTestApp using Mockito
+- UnitTestApp using Mockito
 
-InstrumentedTestApp using Espresso(Tested- View, AdapterView, Intent, RecyclerView & Idling Resource)  
+- InstrumentedTestApp using Espresso(Tested- View, AdapterView, Intent, RecyclerView & Idling Resource)  
