@@ -1,4 +1,2 @@
-# Android-Testing 
-
-- Simple App(UnitTestApp) for Unit Testing using Mockito.
-- Simple App(InstrumentedTestApp) for Instrumented Testing using Espresso.
+- Learning unit testing using Mockito[UnitTestApp].
+- Learning instrumented testing using Espresso[InstrumentedTestApp].
