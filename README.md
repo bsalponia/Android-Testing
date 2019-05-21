@@ -1,5 +1,5 @@
 # Android-Testing 
 
-- UnitTestApp using Mockito
+- Simple App(UnitTestApp) for Unit Testing using Mockito
 
-- InstrumentedTestApp using Espresso(Tested- View, AdapterView, Intent, RecyclerView & Idling Resource)  
+- Simple App(InstrumentedTestApp) for Instrumented Testing using Espresso(Tested- View, AdapterView, Intent, RecyclerView & Idling Resource)  
