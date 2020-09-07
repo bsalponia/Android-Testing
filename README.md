@@ -1,2 +1,1 @@
-- Learning unit testing using Mockito[UnitTestApp].
-- Learning instrumented testing using Espresso[InstrumentedTestApp].
+- unit & instrumented testing.
